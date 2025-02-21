@@ -316,4 +316,4 @@ Now both the input casting and the validation will resolve union types correctly
 
 As always, it is important to remember the limitations of this implementation and the assumptions we made in the beginning. Eventually Laravel Data may have built-in support for union types making this workaround unnecessary. Until then, this may help you in real-world scenarios where they may be unavoidable.
 
-(CC BY-NC-ND 4.0) 2025 Alan Plum
+(CC) 2025 Alan Plum. Some rights reserved. See [LICENSE.md](./LICENSE.md) for details.
